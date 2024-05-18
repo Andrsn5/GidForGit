@@ -35,8 +35,14 @@
 5)git commit -m "second"
 6)git push origin master
 
+
 Для создания новой ветки:
 1)git branch 
 2)git branch feature
 3)git checkout feature 
-4)git commit -m seconds
+4)git commit -m second
+
+
+Merge:
+1)git checkout master
+2)git merge feature
