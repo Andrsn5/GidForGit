@@ -34,3 +34,9 @@
 4)git add . 
 5)git commit -m "second"
 6)git push origin master
+
+Для создания новой ветки:
+1)git branch 
+2)git branch feature
+3)git checkout feature 
+4)git commit -m second
