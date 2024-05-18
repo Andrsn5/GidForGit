@@ -39,4 +39,4 @@
 1)git branch 
 2)git branch feature
 3)git checkout feature 
-4)git commit -m second
+4)git commit -m seconds
