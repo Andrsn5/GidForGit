@@ -20,9 +20,17 @@
 
 
 
-Для быстрого добвления проекта через консоль в компиляторе: 
+Для быстрого добавления проекта через консоль в компиляторе: 
 1)git init - инициализация
 2)git add .- сохранение к скачиванию
 3)git commit -m "" - коммит
 4)git remote add origin https://github.com/Andrsn5/TestForMe5.git - добавление онлайн репозитория
 5)git push origin master   - добавление на сервер
+
+Для быстрого изменения:
+1) ls README.dm.txt
+2)  git init
+3)git status
+4)git add . 
+5)git commit -m "second"
+6)git push origin master
