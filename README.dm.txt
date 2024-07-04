@@ -36,3 +36,5 @@
 6)git push origin master
 
 
+Заменить origin:
+git remote set-url origin new.git.url/here
